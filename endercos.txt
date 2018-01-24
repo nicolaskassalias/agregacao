@@ -1,0 +1,62 @@
+https://secure.php.net/manual/pt_BR/tutorial.whatsnext.php
+
+http://talks.php.net/
+
+https://mrezende.github.io/
+
+Para baixar:
+git clone https://github.com/nicolaskassalias/orientacao-objetos.git
+
+
+
+
+=>MySql
+
+https://github.com/mysql/mysql-server
+
+http://carbon.nesbot.com/docs/  lida com datas (baixar o arquivo usá-lo)
+
+Criar formulário com php
+criado forumlario.html
+dentro atom  escrever html  <ENTER>
+para testar localhost/~php.01/orientacao-objetos/formulario.html
+
+get aparece na barra de enderecos <form action="ExibeInformacoes.php" method="get">
+get fica no histórico do navegador
+
+post nao aparece na barra de enderecos <form action="ExibeInformacoes.php" method="post">
+post envia no cabecalho da requisicao (usar qdo necessita seguranca)pode  criptografar https
+
+usuario root
+senha senha
+
+
+http://localhost/phpmyadmin/
+
+http://localhost/phpmyadmin/db_structure.php?token=e6aed2e06f9c8719b72885058f883816&server=1&db=teste01&table=cadastro
+
+
+
+
+
+23/01/2018
+Manipular mySql com PhpMyAdmin vide link abaixo:
+https://www.devmedia.com.br/manipulando-o-mysql-com-o-phpmyadmin/2276
+
+https://www.w3schools.com/sql/
+
+https://www.w3schools.com/php/php_mysql_select.asp
+
+https://www.w3schools.com/php/php_mysql_select.asp
+
+https://github.com/mrezende
+
+
+https://mrezende.github.io/curso-verao-ime-usp-php-2018/
+
+https://xkcd.com/327
+
+
+24/01/2018
+ORM : Object Relational Mapping
+

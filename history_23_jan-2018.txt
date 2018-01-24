@@ -1,0 +1,211 @@
+    1  su -
+    2  /home/instalador/scripts/script_php_2018_usuario 
+    3  ls 
+    4  exit
+    5  pwd
+    6  ls
+    7  cd Documentos/
+    8  ls
+    9  mkdir aula01
+   10  cd aula01/
+   11  tty
+   12  ssh php.01@torresmo
+   13  ssh php.08@torresmo
+   14  ssh php.08@torresmo >> aula01.txt
+   15  w
+   16  whoami
+   17  exit
+   18  ls
+   19  cd Documentos/
+   20  ls
+   21  cd aula01/
+   22  ls
+   23  cat aula01.txt 
+   24  ssh php.08@torresmo
+   25  mysql -u root -p 
+   26  cd ..
+   27  mkdir public_html
+   28  cd public_html/
+   29  atom .
+   30  php -v
+   31  php -V
+   32  php -v
+   33  pwd
+   34  cd
+   35  cp -r Documentos/public_h* .
+   36  pwd
+   37  cd public_html/
+   38  l
+   39  ls 
+   40  cat index.php 
+   41  gedit index.php &
+   42  history > history_01.txt
+   43  cat history_01.txt 
+   44  ls -l
+   45  atom index.php 
+   46  cat history_01.txt 
+   47  mkdir logica
+   48  cd logica/
+   49  atom .
+   50  atom Logica.php
+   51  ls
+   52  cd public_html/
+   53  ls
+   54  cd logica/
+   55  atom Logica.php &
+   56  atom Logica.php 
+   57  php ~/public_html/logica/
+   58  php ~/public_html/logica
+   59  php Logica.php 
+   60  git init
+   61  git push origin master
+   62  git init
+   63  git add .
+   64  git commit -m "primeiro commit"
+   65  git remote add origin https://github.com/nicolaskassalias/logica.git
+   66  history | grep php
+   67  php ExercicioFor01.php 
+   68  git add .
+   69  git commit -m "programa exibe nome"
+   70  git push origin master
+   71  git add .
+   72  git commit -m "programa exibe nome"
+   73  git push origin master
+   74  php ExercicioFor02.php 
+   75  git add .
+   76  git -m "programa números de 1 a 10"
+   77  git commit -m "programa números de 1 a 10"
+   78  push origin master
+   79  git push origin master
+   80  php ExercicioFor03.php 
+   81  git add .
+   82  git commit -m "programa pares e ímpares com *"
+   83  git push origin master
+   84  php ExercicioFor04.php 
+   85  git add .
+   86  git commit -m "exibe PIN para os números múltiplos de 4"
+   87  gip push origin master
+   88  git push origin master
+   89  php ExercicioFor05.php 
+   90  git add .
+   91  git commit -m "programa exibe triangulo"
+   92  git push origin master
+   93  php ExercicioFor06.php 
+   94  php ExercicioFor05.php 
+   95  git add .
+   96  git commit -m "programa exibe varios triangulos"
+   97  git push origin master
+   98  php ExercicioFor07.php 
+   99  git add .
+  100  git commit -m "Sequência de Fibonacci"
+  101  git push origin master
+  102  php ExercicioArgv01.php teste
+  103  php ExercicioArgv01.php 
+  104  php ExercicioArgv02.php 
+  105  php ExercicioArgv02.php zzz
+  106  php ExercicioArgv02.php zzz asasa
+  107  php ExercicioArgv01.php maria zeze
+  108  php ExercicioArgv02.php maria zeze
+  109  php ExercicioArgv02.php maria zeze aaa
+  110  php ExercicioArgv03.php maria zeze aaa
+  111  php ExercicioBaskara03.php maria zeze aaa
+  112  php ExercicioBaskara03.php 1 1 1
+  113  php ExercicioBaskaraOK1.php 0 1 1
+  114  hp ExercicioBaskara03.php 1 1 1
+  115  php ExercicioBaskara03.php 0 1 1
+  116  php ExercicioBaskaraOK1.php 0 1 1
+  117  php ExercicioBaskaraOK1.php 1 26 1
+  118  ls
+  119  ls -l ExercicioBaskara*
+  120  rm ExercicioBaskara0*
+  121  ls -l ExercicioBaskara*
+  122  ls -l 
+  123  git add .
+  124  git commit -m "varios"
+  125  git push origin master
+  126  cd ..
+  127  mkdir orientacao-objetos
+  128  cd orientacao-objetos/
+  129  atom .
+  130  cd ../logica/
+  131  gedit endercos.txt &
+  132  cd ..
+  133  php Conta01.php 
+  134  git init
+  135  git add .
+  136  git commit -m "orientacao objetos PHP"
+  137  git remote add origin https://github.com/nicolaskassalias/orientacao-objetos.git
+  138  git push -u origin master
+  139  php Conta01.php 
+  140  git add .
+  141  git commit -m "orientacao objetos PHP"
+  142  git remote add origin https://github.com/nicolaskassalias/orientacao-objetos.git
+  143  git push -u origin master
+  144  cp ../logica/endercos.txt .
+  145  php Cartao01.php 
+  146  git add .
+  147  git commit -m "orientação ao bojetos 02"
+  148  git push -u origin master
+  149  exit
+  150  pwd
+  151  ls
+  152  cd public_html/
+  153  ls
+  154  atom .
+  155  cd orientacao-objetos/
+  156  php Curso01.php 
+  157  l
+  158  ls
+  159  ls -l
+  160  gedit endercos.txt &
+  161  git init 
+  162  git add .
+  163  git commit -m "prim commit de 22/01/2018"
+  164  git remote add origin https://github.com/<USUARIO_GITHUB>/orientacao-a-objetos.gitnicolaskassalias/orientacao-objetos
+  165  git remote add origin https://github.com/<USUARIO_GITHUB>nicolaskassalias/orientacao-objetos/orientacao-a-objetos.gitnicolaskassalias/orientacao-objetos
+  166  git remote add origin https://github.com/nicolaskassalias/orientacao-objetos/orientacao-a-objetos.gitnicolaskassalias/orientacao-objetos
+  167  git push origin master
+  168  php Aluno01.php 
+  169  git add .
+  170  git commit -m "adição classe Aluno"
+  171  git push origin master
+  172  ls
+  173  atom .
+  174  php Funcionario01.php 
+  175  php Turma01.php 
+  176  git add .
+  177  it commit -m "insere Turma e Aluno"
+  178  git commit -m "insere Turma e Aluno"
+  179  git push origin master
+  180  php Cartao01.php 
+  181  php TestaCartao01.php 
+  182  git add .
+  183  git commit -m "adicao da classe TestaCarta01.php"
+  184  git push origin master
+  185  pwd
+  186  ls
+  187  git add .
+  188  git commit -m "adicao de págin html formulario.html e Exibeformulario.php"
+  189  git push origin master
+  190  mysql
+  191  mysql -u root -p
+  192  git add .
+  193  git commit -m "modifica e usa mysql"
+  194  git push origin master
+  195  git add .
+  196  git commit -m "modifica endereco.txt para saber usar mysql"
+  197  git push origin master
+  198  ls
+  199  cd public_html/
+  200  ls
+  201  cd orientacao-objetos/
+  202  ls
+  203  ls -l
+  204  gedit endercos.txt &
+  205  date
+  206  mysql -t root
+  207  mysql -u root
+  208  history |grep root
+  209  mysql -u root -p 
+  210  ls -l his*
+  211  history >> history_23_jan-2018.tt
