@@ -70,5 +70,11 @@ git clone https://github.com/mrezende/agregacao.git  => no terminal Linux
 https://www.w3schools.com/php/default.asp 
 
 
+git add .
+git commit -m "mensagens "
+git push origin master
+
+
+
 
 
