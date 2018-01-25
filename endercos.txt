@@ -65,4 +65,10 @@ https://www.todoespacoonline.com/w/2014/08/associacao-agregacao-e-composicao/
 https://www.todoespacoonline.com/w/2014/08/associacao-agregacao-e-composicao/  (LEGAL)
 
 
+git clone https://github.com/mrezende/agregacao.git  => no terminal Linux
+
+https://www.w3schools.com/php/default.asp 
+
+
+
 
